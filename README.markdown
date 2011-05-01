@@ -17,7 +17,6 @@ One command line to get them all:
     gem install melomel cucumber rspec selenium-webdriver
 
 You're ready to run the HelloWorld sample !
--------------------------------------------
 
 If you want to setup a new project
 ----------------------------------
@@ -59,3 +58,7 @@ Theses sample projects were tested with the following configuration:
 
 * Flex 4.1
 * Ruby 1.9.2
+* cucumber 0.10.2
+* melomel 0.6.2
+* rspec 2.5.0
+* selenium-webdriver 0.2.0
