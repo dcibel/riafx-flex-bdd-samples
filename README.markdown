@@ -18,6 +18,11 @@ One command line to get them all:
 
 You're ready to run the HelloWorld sample !
 
+Compile the project in Flex.
+
+cd into the HelloWorld project and run
+    cucumber
+
 If you want to setup a new project
 ----------------------------------
 
